@@ -3,6 +3,8 @@
 Este es un proyecto que tiene como objetivo brindar una experiencia de usuario más agradable y personalizada al momento de mostrar el error 404 de un sitio web. En lugar de mostrar la página de error genérica, este proyecto ofrece una página personalizada y atractiva que hará que los usuarios se sientan más cómodos al momento de encontrar una página que no existe en tu sitio web.
 
 
+> **Puedes visitar mi proyecto en vivo aquí:** [https://mi-proyecto.vercel.app/](https://mi-proyecto.vercel.app/)
+
 ## Tecnologías utilizadas
 
 - HTML5
@@ -21,19 +23,9 @@ Este proyecto cuenta con las siguientes funcionalidades:
 
 El proyecto 404 Not Found se ha desarrollado utilizando una arquitectura de cliente-servidor, con una estructura basada en componentes. En el lado del cliente se ha utilizado HTML, CSS y JavaScript (Indirectamente) para el diseño y funcionalidades de la página.
 
-La estructura del proyecto se ha organizado de la siguiente manera:
-
-**404-Not-Found/**
-├── public/
-│   ├── css/
-│   ├── fonts/
-│   ├── images/
-│   ├── js/
-│   └── index.html
-├── server/
-│   ├── index.js
-│   └── routes.js
-└── README.md
+| La estructura del proyecto se ha organizado de la siguiente manera: |
+| --- |
+|![Captura de pantalla de la versión de escritorio](https://res.cloudinary.com/dwdzufjyh/image/upload/v1680636328/404%20Not%20Found/carbon_1_p8boaj.svg) |
 
 ********
 
