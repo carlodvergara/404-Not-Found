@@ -10,7 +10,7 @@ Este es un proyecto que tiene como objetivo brindar una experiencia de usuario m
 
 
 
-> **Puedes visitar mi proyecto en vivo aquí:** [https://mi-proyecto.vercel.app/](https://mi-proyecto.vercel.app/)
+> **Puedes visitar mi proyecto en vivo aquí:** [https://mi-proyecto.vercel.app/](https://404-not-found-gules.vercel.app/)
 
 
 ## Tecnologías utilizadas
