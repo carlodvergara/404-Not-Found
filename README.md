@@ -3,7 +3,7 @@
 Este es un proyecto que tiene como objetivo brindar una experiencia de usuario más agradable y personalizada al momento de mostrar el error 404 de un sitio web. En lugar de mostrar la página de error genérica, este proyecto ofrece una página personalizada y atractiva que hará que los usuarios se sientan más cómodos al momento de encontrar una página que no existe en tu sitio web.
 
 
-> **Puedes visitar mi proyecto en vivo aquí:** [https://mi-proyecto.vercel.app/](https://mi-proyecto.vercel.app/)
+> **Puedes visitar mi proyecto en vivo aquí:** [https://mi-proyecto.vercel.app/](https://404-not-found-gules.vercel.app/)
 
 ## Tecnologías utilizadas
 
